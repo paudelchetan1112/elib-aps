@@ -1,0 +1,21 @@
+{
+  "name": "elib-aps",
+  "version": "1.0.0",
+  "description": "Api making",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.ts"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "chetan paudel",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
